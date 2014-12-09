@@ -1,6 +1,6 @@
 <?php
 // global site name and tagline
-$siteName = 'aNew2';
+$siteName = 'MaroBase';
 $siteTagline = 'Base Structure Template PHP';
 
 // root folder
