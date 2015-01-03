@@ -1,5 +1,6 @@
 <?php 
 // index.php
+// comment from github site
 include_once ('inc/config.php');
 $pageId = 'homePage';
 $pageTitle = "Home page";
