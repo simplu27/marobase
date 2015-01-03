@@ -1,4 +1,5 @@
 <?php 
+// index.php
 include_once ('inc/config.php');
 $pageId = 'homePage';
 $pageTitle = "Home page";
